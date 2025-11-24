@@ -1,6 +1,6 @@
-# AesExpert Homepage
+# ALCG Homepage
 
-This is the repository that contains source code for the [AesExpert](https://github.com/yipoh/AesExpert).
+This is the repository that contains source code for the [ALCG](https://yuquanle.github.io/ALCG-homepage).
 
 
 # Website License
